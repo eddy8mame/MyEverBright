@@ -12,6 +12,7 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
+    "entryPoint": "./app/index.tsx",
     "ios": {
       "supportsTablet": true,
       "bundleIdentifier": "com.eddy8mame.MyEverBright"
